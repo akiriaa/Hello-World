@@ -4,7 +4,7 @@
 This app changes the text, text color, and background color
 
 ### App Walk-though
-<img src="https://i.imgur.com/92z1sQk.gif" width=200><br>
+<img src="https://i.imgur.com/t6iw7e5.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
